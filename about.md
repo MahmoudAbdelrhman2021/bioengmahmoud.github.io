@@ -2,6 +2,7 @@
 title: About
 layout: page
 ---
+
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
@@ -21,7 +22,6 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
 	<li>Responsive (Mobile First)</li>
 	<li>CSS (Stylus, Sass, Less)</li>
 	<li>Css Frameworks (Bootstrap, Foundation)</li>
