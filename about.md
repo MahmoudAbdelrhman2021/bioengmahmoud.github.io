@@ -10,6 +10,7 @@ layout: page
 <p>Balancing between doing sports, the academic year and my fields of interests is a main target for me. My favorite sports are swimming and football, both to watch and play. My favorite hobby is travelling abroad to discover the wrold around me.</p>
 
 <p>I'm interested in the filed of sports as I participated in organizing great events in this filed. As for my previos experience was Total Africa Cup Of Nantions "AFCON,Egypt'19"</p>
+
 <h2>Skills</h2>
 
 <ul class="skill-list">
@@ -34,5 +35,5 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a sbe304-fall19-project-shymaa_is_here</a></li>
+	<li><a href="sbe304-fall19-project-shymaa_is_here"</a></li>
 </ul>
