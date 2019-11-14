@@ -34,5 +34,5 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/sbme-tutorials/sbe304-fall19-project-shymaa_is_here"></a></li>
+	<li><a href="https://github.com/sbme-tutorials/sbe304-fall19-project-shymaa_is_here">Machine learning project to predict whether a patient dies within five years or survives from breast cancer.</a></li>
 </ul>
