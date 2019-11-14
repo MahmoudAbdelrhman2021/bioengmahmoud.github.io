@@ -19,7 +19,7 @@ layout: page
 	<li>Marketing</li>
 	<li>International event coordinator and organizer</li>
         <li>English Language instructor</li>
-        <li>Soft skills instructor</il>
+        <li>Soft skills instructor</li>
         <li>CSS (Stylus, Sass, Less)</li>
         <li>Css Frameworks (Bootstrap, Foundation)</li>
 	<li>Javascript (Design Patterns, Testes)</li>
@@ -34,5 +34,5 @@ layout: page
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/sbme-tutorials/sbe304-fall19-project-shymaa_is_here">Mahmoud/Machine learning project to predict whether a patient dies within five years or survives from breast cancer.</a></li>
+	<li><a href="https://github.com/sbme-tutorials/sbe304-fall19-project-shymaa_is_here"></a></li>
 </ul>
