@@ -5,42 +5,34 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Hi! My name is Mahmoud. Besides my study at Cairo university, faculty of engineering, systems and biomedical department(SBME), I am also a HR specialist at Vodaphone UK.
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Hi! My name is Mahmoud. Besides my study at Cairo university, faculty of engineering, systems and biomedical department(SBME), I'm also a HR specialist at Vodaphone UK. I work as an English instructor at MODLI "Ministry Of Defense Language Institute". I also have an experience at a sales engineering consultation. So, my fields of interests are medical instrumentation, programming, sales, marketing, teaching and HR.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Balancing between doing sports, the academic year and my fields of interests is a main target for me. My favorite sports are swimming and football, both to watch and play. My favorite hobby is travelling abroad to discover the wrold around me.</p>
 
+<p>I'm interested in the filed of sports as I participated in organizing great events in this filed. As for my previos experience was Total Africa Cup Of Nantions "AFCON,Egypt'19"</p>
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
+	<li>HR diploma</li>
+	<li>Sales</li>
+	<li>Marketing</li>
+	<li>International event coordinator and organizer</li>
+        <li>English Language instructor</li>
+        <li>Soft skills instructor</il>
+        <li>CSS (Stylus, Sass, Less)</li>
+        <li>Css Frameworks (Bootstrap, Foundation)</li>
 	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+        <li>MySQL - MongoDB</li>
+        <li>PHP</li>
+	<li>C++</li>
+	<li>Matlab</li>
 	<li>Git</li>
-	<li>PHP</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Arduino</li>
 </ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a sbe304-fall19-project-shymaa_is_here</a></li>
 </ul>
