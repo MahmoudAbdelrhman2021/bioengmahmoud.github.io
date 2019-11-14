@@ -5,7 +5,7 @@ layout: page
 
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+<p>Hi! My name is Mahmoud. Besides my study at Cairo university, faculty of engineering, systems and biomedical department(SBME), I am also a HR specialist at Vodaphone UK.
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
