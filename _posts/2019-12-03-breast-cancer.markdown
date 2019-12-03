@@ -10,6 +10,7 @@ tag:
 - Machine Learning
 star: true
 category: blog
+projects: true
 author: Mahmoud Abdelrhman
 description: A binary classification to predict whether a patient dies within five years or survives.
 ---
@@ -36,7 +37,7 @@ The ﬁeld of data science has progressed from simple linear regression models t
 ## Pre-Processing
 
 ![Markdowm Image][1]
-
+<figcaption class="caption">Visualization</figcaption>
 
 We detected if we would make some feature selections or not according to EDA and our visualization. We selected the previous 5 methods Naive Bayes (NB) Classier, K-nearest neighbors (KNN) model, Decision Trees, Logistic Regression and Kernel after that we didn't need to make some standardizations at each method. No imputation was found as we didn’t have any missing data.
 
