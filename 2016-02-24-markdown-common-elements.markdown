@@ -1,12 +1,13 @@
 ---
-title: "Markdown Common Elements"
+title: "Breast Cancer Classification with Machine Learning"
 layout: post
 date: 2016-02-24 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- elements
+- R
+- Breast Cancer
+- Machine Learning
 star: true
 category: blog
 author: johndoe
