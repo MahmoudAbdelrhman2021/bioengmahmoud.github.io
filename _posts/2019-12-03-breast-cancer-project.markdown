@@ -11,6 +11,7 @@ tag:
 star: true
 category: blog
 projects: true
+hidden: true
 author: Mahmoud Abdelrhman
 description: A binary classification to predict whether a patient dies within five years or survives.
 ---
