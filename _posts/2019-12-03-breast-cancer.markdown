@@ -22,8 +22,8 @@ My group and I studied for the first time a biostatistics course within this aca
 
 ## Purpose
 
-
 For our society, expecting the survival status of patients who will undertake breast cancer surgery is highly vital, where it speciﬁes whether conducting a surgery is the best solution for the presented medical case or not. The need to explore better prediction techniques to ensure accurate survival status prediction cannot be overemphasized. We would like to explain the various data analysis operation that we would do on this data set and how to conclude or predict survival status of patients who undergone from surgery.
+
 ---
 
 ## Data & Methodology
@@ -33,7 +33,7 @@ We studied a series of asking questions and applying questions and to uncover th
 The ﬁeld of data science has progressed from simple linear regression models to complex assembling techniques but the most preferred models are still the simplest and most interpretable. Among them were Logistic regression, Decision Trees, K-nearest neighbors (KNN) model, Kernel and naïve bayes techniques. We used these different methods and did our study. After that we compared with them to know which one is the best method for our project. 
 
 ---
-![Markdowm Image][https://bioengmahmoud.github.io/assests/image/graphs.png]
+![Markdowm Image][https://bioengmahmoud.github.io/assets/images/graphs.png]
 ## Pre-Processing
 
 We detected if we would make some feature selections or not according to EDA and our visualization. We selected the previous 5 methods Naive Bayes (NB) Classier, K-nearest neighbors (KNN) model, Decision Trees, Logistic Regression and Kernel after that we didn't need to make some standardizations at each method. No imputation was found as we didn’t have any missing data.
