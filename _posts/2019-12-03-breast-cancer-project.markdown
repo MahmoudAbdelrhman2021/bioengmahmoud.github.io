@@ -10,6 +10,7 @@ tag:
 - Machine Learning
 star: true
 category: blog
+projects: true
 author: Mahmoud Abdelrhman
 description: A binary classification to predict whether a patient dies within five years or survives.
 ---
